@@ -5,9 +5,9 @@
 
 const CONFIG_APP = {
     // 1. Nama Studio Foto Anda (Akan tampil di header dan portal klien)
-    namaVendor: "Portal Client",
+    namaVendor: "Storylens Photography",
 
     // 2. Google Drive API Key (Penting agar galeri bisa memuat foto)
-    googleApiKey: "AIzaSyAZczbLeVTXl-QKqLDJFWQLCd-lW9jqqxo",
-    whatsappAdmin: "62821000000000" // <-- TAMBAHKAN BARIS INI (Ganti dengan nomor WA admin)
+    googleApiKey: "AIzaSyB8ONdkaysSb9z9JN405D793HD_enRoZ34",
+    whatsappAdmin: "6289678071174" // <-- TAMBAHKAN BARIS INI (Ganti dengan nomor WA admin)
 };
